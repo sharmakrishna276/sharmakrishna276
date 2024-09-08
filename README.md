@@ -30,9 +30,9 @@ I am a B.Tech student majoring in Mathematics at IIT Delhi with a keen interest 
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) 
 
 # 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=sharmakrishna276&theme=dark&hide_border=false&include_all_commits=true&count_private=true)  
-![](https://github-readme-streak-stats.herokuapp.com/?user=sharmakrishna276&theme=dark&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sharmakrishna276&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sharmakrishna276&theme=dark&hide_border=false&include_all_commits=true&count_private=true)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sharmakrishna276&theme=dark&hide_border=false)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sharmakrishna276&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 
